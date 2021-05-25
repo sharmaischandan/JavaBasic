@@ -1,4 +1,4 @@
-package com.cdrock.multithreading;
+package com.cdrock.multithreading.reentrantlock;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
